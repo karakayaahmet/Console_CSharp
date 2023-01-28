@@ -1,0 +1,15 @@
+C:\Users\karak\Masaüstü\console\bolum9\bin\Debug\net6.0\bolum9.exe
+C:\Users\karak\Masaüstü\console\bolum9\bin\Debug\net6.0\bolum9.deps.json
+C:\Users\karak\Masaüstü\console\bolum9\bin\Debug\net6.0\bolum9.runtimeconfig.json
+C:\Users\karak\Masaüstü\console\bolum9\bin\Debug\net6.0\bolum9.dll
+C:\Users\karak\Masaüstü\console\bolum9\bin\Debug\net6.0\bolum9.pdb
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\bolum9.csproj.AssemblyReference.cache
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\bolum9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\bolum9.AssemblyInfoInputs.cache
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\bolum9.AssemblyInfo.cs
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\bolum9.csproj.CoreCompileInputs.cache
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\bolum9.dll
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\refint\bolum9.dll
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\bolum9.pdb
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\bolum9.genruntimeconfig.cache
+C:\Users\karak\Masaüstü\console\bolum9\obj\Debug\net6.0\ref\bolum9.dll
