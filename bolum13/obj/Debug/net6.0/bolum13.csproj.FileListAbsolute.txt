@@ -1,0 +1,15 @@
+C:\Users\karak\Masaüstü\console\bolum13\bin\Debug\net6.0\bolum13.exe
+C:\Users\karak\Masaüstü\console\bolum13\bin\Debug\net6.0\bolum13.deps.json
+C:\Users\karak\Masaüstü\console\bolum13\bin\Debug\net6.0\bolum13.runtimeconfig.json
+C:\Users\karak\Masaüstü\console\bolum13\bin\Debug\net6.0\bolum13.dll
+C:\Users\karak\Masaüstü\console\bolum13\bin\Debug\net6.0\bolum13.pdb
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\bolum13.csproj.AssemblyReference.cache
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\bolum13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\bolum13.AssemblyInfoInputs.cache
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\bolum13.AssemblyInfo.cs
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\bolum13.csproj.CoreCompileInputs.cache
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\bolum13.dll
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\refint\bolum13.dll
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\bolum13.pdb
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\bolum13.genruntimeconfig.cache
+C:\Users\karak\Masaüstü\console\bolum13\obj\Debug\net6.0\ref\bolum13.dll
