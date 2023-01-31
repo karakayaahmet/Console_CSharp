@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karak\\Masaüstü\\console\\bolum\\bolum.csproj": {}
+    "C:\\Users\\karak\\Masaüstü\\console\\bolum18\\bolum18.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karak\\Masaüstü\\console\\bolum\\bolum.csproj": {
+    "C:\\Users\\karak\\Masaüstü\\console\\bolum18\\bolum18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karak\\Masaüstü\\console\\bolum\\bolum.csproj",
-        "projectName": "bolum",
-        "projectPath": "C:\\Users\\karak\\Masaüstü\\console\\bolum\\bolum.csproj",
+        "projectUniqueName": "C:\\Users\\karak\\Masaüstü\\console\\bolum18\\bolum18.csproj",
+        "projectName": "bolum18",
+        "projectPath": "C:\\Users\\karak\\Masaüstü\\console\\bolum18\\bolum18.csproj",
         "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karak\\Masaüstü\\console\\bolum\\obj\\",
+        "outputPath": "C:\\Users\\karak\\Masaüstü\\console\\bolum18\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
