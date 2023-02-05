@@ -40,4 +40,5 @@ class Program
         string connection = @"server=localhost; port=3306; database=northwind; user=root; password=mysql123;";
         return new MySqlConnection(connection);
     }
+    
 }
